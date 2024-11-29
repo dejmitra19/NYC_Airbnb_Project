@@ -19,7 +19,7 @@ This project analyzes Airbnb listings in New York City to identify trends, insig
 - **Availability**: Listings with higher availability (200+ days) tend to have lower prices, indicating competitive pricing strategies by hosts.
 
 ## Files Included
-- [`Dejon's_Project_NYC_Airbnb.xlsx`](https://github.com/your-username/NYC_Airbnb_Project/blob/main/Dejon's_Project_NYC_Airbnb.xlsx): The main Excel file with data and analysis.
+- [NYC Airbnb Analysis Data](https://docs.google.com/spreadsheets/d/1Oct5xhWu_UdUv17quhtvA7cLx-4ZbhwTtdVv5IbHJGM/edit?usp=sharing): The Google Sheets file with data and analysis.
 - `Visualizations/`: Directory containing key charts from the analysis.
 
 ## Future Improvements
@@ -27,6 +27,6 @@ This project analyzes Airbnb listings in New York City to identify trends, insig
 - Explore seasonal trends and their impact on Airbnb bookings.
 
 ## How to Use
-1. Open the [Excel file](https://github.com/your-username/NYC_Airbnb_Project/blob/main/Dejon's_Project_NYC_Airbnb.xlsx) in the repository.
+1. Open the [Google Sheets file](https://docs.google.com/spreadsheets/d/1Oct5xhWu_UdUv17quhtvA7cLx-4ZbhwTtdVv5IbHJGM/edit?usp=sharing).
 2. Review the `Summary` tab for key findings and visualizations.
 3. Explore individual sheets for detailed analyses.
