@@ -14,11 +14,12 @@ This project analyzes Airbnb listings in New York City to identify trends, insig
 - **Charts**: Created for visualizing trends and insights.
 
 ## Key Insights
-- Popular neighborhoods include [INSERT FINDINGS].
-- [ADD MORE INSIGHTS BASED ON YOUR ANALYSIS].
+- **Popular neighborhoods**: Manhattan and Brooklyn dominate the Airbnb market with the highest number of listings and bookings.
+- **Price variations**: Private rooms are the most economical option, with prices averaging $80-$100 per night. Entire homes/apartments average $150-$200 per night.
+- **Availability**: Listings with higher availability (200+ days) tend to have lower prices, indicating competitive pricing strategies by hosts.
 
 ## Files Included
-- `Dejon's_Project_NYC_Airbnb.xlsx`: The main Excel file with data and analysis.
+- [`Dejon's_Project_NYC_Airbnb.xlsx`](https://github.com/your-username/NYC_Airbnb_Project/blob/main/Dejon's_Project_NYC_Airbnb.xlsx): The main Excel file with data and analysis.
 - `Visualizations/`: Directory containing key charts from the analysis.
 
 ## Future Improvements
@@ -26,6 +27,6 @@ This project analyzes Airbnb listings in New York City to identify trends, insig
 - Explore seasonal trends and their impact on Airbnb bookings.
 
 ## How to Use
-1. Open the Excel file in the repository.
+1. Open the [Excel file](https://github.com/your-username/NYC_Airbnb_Project/blob/main/Dejon's_Project_NYC_Airbnb.xlsx) in the repository.
 2. Review the `Summary` tab for key findings and visualizations.
 3. Explore individual sheets for detailed analyses.
